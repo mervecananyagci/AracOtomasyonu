@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracOtomasyon", "AracOtomasyon\AracOtomasyon.csproj", "{414310D1-6C49-4AC7-A644-A9A32C65EBD8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{23CE0961-4550-40D9-9211-46F8BF01DE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414310D1-6C49-4AC7-A644-A9A32C65EBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414310D1-6C49-4AC7-A644-A9A32C65EBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414310D1-6C49-4AC7-A644-A9A32C65EBD8}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{414310D1-6C49-4AC7-A644-A9A32C65EBD8}.Debug|Default.Build.0 = Debug|Any CPU
+		{414310D1-6C49-4AC7-A644-A9A32C65EBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414310D1-6C49-4AC7-A644-A9A32C65EBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414310D1-6C49-4AC7-A644-A9A32C65EBD8}.Release|Default.ActiveCfg = Release|Any CPU
+		{414310D1-6C49-4AC7-A644-A9A32C65EBD8}.Release|Default.Build.0 = Release|Any CPU
+		{23CE0961-4550-40D9-9211-46F8BF01DE4B}.Debug|Any CPU.ActiveCfg = Debug
+		{23CE0961-4550-40D9-9211-46F8BF01DE4B}.Debug|Default.ActiveCfg = Debug
+		{23CE0961-4550-40D9-9211-46F8BF01DE4B}.Debug|Default.Build.0 = Debug
+		{23CE0961-4550-40D9-9211-46F8BF01DE4B}.Release|Any CPU.ActiveCfg = Release
+		{23CE0961-4550-40D9-9211-46F8BF01DE4B}.Release|Default.ActiveCfg = Release
+		{23CE0961-4550-40D9-9211-46F8BF01DE4B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0838F3A4-EA31-4F1A-94C9-C4A9248BE9F1}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
